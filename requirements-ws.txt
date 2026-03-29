@@ -1,3 +1,0 @@
-trl
-wandb
-# unsloth requires special installation - see https://github.com/unslothai/unsloth

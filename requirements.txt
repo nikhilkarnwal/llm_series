@@ -1,6 +1,0 @@
-torch>=2.0.0
-gymnasium[box2d]>=0.29.0
-numpy
-matplotlib
-tensorboard
-tqdm

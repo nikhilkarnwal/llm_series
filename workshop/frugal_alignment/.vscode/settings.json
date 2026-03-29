@@ -1,7 +1,0 @@
-{
-    "python.defaultInterpreterPath": "${workspaceFolder}/venv-llama/bin/python",
-    "python.terminal.activateEnvironment": true,
-    "python.analysis.extraPaths": [
-        "${workspaceFolder}/venv-llama/lib/python3.10/site-packages"
-    ]
-}
